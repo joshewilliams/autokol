@@ -1,5 +1,7 @@
 # Start of Ascension
 
+## Done
+
 Visit Mt.Noob -> Toot Oriole
     * Use Letter from King Ralph XI
     * Use Pork Elf Goodies Sack
@@ -7,7 +9,6 @@ Visit Mt.Noob -> Toot Oriole
       * Baconstone
       * Porquoise
       * Hamethyst
-      * Newbiesport tent
 Take Gelatinous Cubeling for 12 combats
 Equip:
     * Class Equipment (Seal Skull Helmet, Helmet Turtle, Ravioli Hat, Hollandaise Helmet, Disco Mask, Mariachi Pants)
@@ -22,6 +23,8 @@ Equip:
 
 Plumber Equipment:
     * Work Boots instead of pillkeeper (Until using all Doctor Bag specials)
+
+## Not Done
 
 Open astral consumable:
     * Astral Hot Dog Dinner
