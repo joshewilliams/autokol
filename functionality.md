@@ -24,11 +24,11 @@ Equip:
 Plumber Equipment:
     * Work Boots instead of pillkeeper (Until using all Doctor Bag specials)
 
-## Not Done
-
 Open astral consumable:
     * Astral Hot Dog Dinner
     * Astral Six Pack
+    
+## Not Done
 
 Visit Your Campsite Away From Your Campsite:
     * Gaze at the Stars 4 times
@@ -162,7 +162,6 @@ Pill Keeper:
    
 Diabolic Pizza Cube:
     * TODO
-
 Red Snapper Fam:
     * TODO
 

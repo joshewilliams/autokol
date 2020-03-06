@@ -83,6 +83,17 @@ void ascension_setup()
             break;
     }
 
+    // Unpack Astral Consumables
+    print("Unpacking astral consumables");
+    if(item_amount($item[astral hot dog dinner]) > 0)
+    {
+        use(1, $item[astral hot dog dinner]);
+    }
+    if(item_amount($item[astral six-pack]) > 0)
+    {
+        use(1, $item[astral six-pack]);
+    }
+
 }
 
 boolean possessEquipment(item equipment)
