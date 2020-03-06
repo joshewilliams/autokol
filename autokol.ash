@@ -43,6 +43,10 @@ void ascension_setup()
     {
         equip($slot[acc3], $item[Astral Belt]));
     }
+    if(possessEquipment($item[Astral Pet Sweater])
+    {
+        equip($item[Astral Pet Sweater]);
+    }
     
     // Class Specific Equipment
     print("Handling class specific equipment");
